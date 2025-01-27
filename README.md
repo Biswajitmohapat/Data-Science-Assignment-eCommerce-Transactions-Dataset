@@ -46,39 +46,7 @@ You can download the datasets using the following links:
   - A Jupyter Notebook (`Clustering.ipynb`) with clustering logic and visualizations.
   - A PDF report (`Clustering.pdf`) summarizing clustering results.
 
----
 
-## File Naming Convention
-Please adhere to the following format for all files:
-- `FirstName_LastName_EDA.ipynb`
-- `FirstName_LastName_EDA.pdf`
-- `FirstName_LastName_Lookalike.ipynb`
-- `FirstName_LastName_Lookalike.csv`
-- `FirstName_LastName_Clustering.ipynb`
-- `FirstName_LastName_Clustering.pdf`
 
----
 
-## Evaluation Criteria
-Submissions will be evaluated based on:
-1. **Exploratory Data Analysis (25%)** - Code clarity, insights derived.
-2. **Business Insights (15%)** - Relevance and actionability of insights.
-3. **Lookalike Model (30%)** - Accuracy and quality of recommendations.
-4. **Customer Segmentation (30%)** - Clustering logic, metrics, and visualizations.
 
----
-
-## Submission Instructions
-- Upload all deliverables to a public GitHub repository.
-- Ensure file naming and formats are correct to avoid disqualification.
-
----
-
-## Notes
-- Focus on clean and efficient code.
-- Insights and models should drive meaningful business strategy improvements.
-- Good luck!
-
---- 
-
-Let me know if you'd like to add project-specific details, code snippets, or further explanations.
